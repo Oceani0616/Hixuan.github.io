@@ -6,3 +6,5 @@ Hi sweety
 ## hi bro
 
 **Alita is mine.**
+
+(/assets/cv_hixuan.pdf)
