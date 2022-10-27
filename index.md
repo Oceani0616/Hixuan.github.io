@@ -1,3 +1,11 @@
+---
+layout: default
+title: 欢迎来到我的博客
+
+---
+
+{{site.title}}
+
 # Nice to fuck you.
 
 Hi sweety
@@ -7,4 +15,3 @@ Hi sweety
 
 **Alita is mine.**
 
-(/assets/cv_hixuan.pdf)
