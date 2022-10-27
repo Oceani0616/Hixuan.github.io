@@ -1,3 +1,8 @@
 theme: jekyll-theme-Midnight
 title: Welcome! Bro and Sweety
 description: For daily notes
+defaults:
+  - scope:
+      path: "assets/cv_hixuan.pdf"
+    values:
+      image: true
