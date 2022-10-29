@@ -6,10 +6,10 @@ title: 欢迎来到我的博客
 
 {{site.title}}
 
-# Nice to fuck you.
+# Hi there, nice to meet u
 
-Hi sweety
-+ +v ❤ 18801093961
+ **You can find me at WeChat, search 18801093961 and my ID is *Thirsty for world
+    +v❤ 18801093961
 
 ## hi bro
 

@@ -1,10 +1,6 @@
 markdown: kramdown
 
 heme: jekyll-theme-Midnight
-title: Welcome! Bro and Sweety
+title: Welcome! Bro and Sweety!!
 description: Just Do it
-defaults:
-  - scope:
-      path: "assets/cv_hixuan.pdf"
-    values:
-      image: true
+
